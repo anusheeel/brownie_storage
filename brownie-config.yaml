@@ -1,0 +1,5 @@
+dotenv: .env
+wallets:
+  from_key_1: ${PROSUMER_1}
+  from_key_2: ${PROSUMER_2}
+  from_key_3: ${CONSUMER}
